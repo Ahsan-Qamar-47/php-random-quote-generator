@@ -8,7 +8,7 @@ A simple, elegant **PHP-based random quote generator** that displays an inspirat
 
 ## 📸 Screenshot
 
-Random Quote Generator.png
+![The image of the app interface on desktop.](image.png)
 
 ---
 
